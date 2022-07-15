@@ -1,2 +1,8 @@
 # Tetris-PLP
 Projeto de tetris para a disciplina de PLP
+
+Como jogar: 
+1. Use o comando 'git clone https://github.com/LuizAntonio67/Tetris-PLP.git' para clonar o repositório
+2. Entre na pasta haskell do repositório
+3. Use o comando 'stack build' para compilar o jogo
+4. Use o comando 'stack exec tetris' para iniciar o jogo!
