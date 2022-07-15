@@ -2,7 +2,7 @@
 Projeto de tetris para a disciplina de PLP.
 Criado para terminal de linux, usando a biblioteca NCurses https://hackage.haskell.org/package/ncurses
 
-Autores: Letícia Calixto, Roberto Filho, Luiz Antonio e Cleciana Santana
+Autores: Letícia Calixto, Roberto Filho, Luiz Antonio e Cleciana Santana.
 
 É necessário ter instalado Haskell, cabal, stack e a biblioteca NCurses. Como jogar:
 
