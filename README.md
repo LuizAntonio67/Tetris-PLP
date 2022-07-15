@@ -1,5 +1,6 @@
 # Tetris-PLP
 Projeto de tetris para a disciplina de PLP
+Criado para terminal de linux, usando a biblioteca NCurses https://hackage.haskell.org/package/ncurses
 
 Como jogar: 
 1. Use o comando 'git clone https://github.com/LuizAntonio67/Tetris-PLP.git' para clonar o repositório
