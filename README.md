@@ -1,5 +1,5 @@
 # Tetris-PLP
-Projeto de tetris para a disciplina de PLP
+Projeto de tetris para a disciplina de PLP.
 Criado para terminal de linux, usando a biblioteca NCurses https://hackage.haskell.org/package/ncurses
 
 Autores: Letícia Calixto, Roberto Filho, Luiz Antonio e Cleciana Santana
