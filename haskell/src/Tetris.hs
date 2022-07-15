@@ -282,7 +282,7 @@ moverDireita fileiras
   | toqueDireita fileiras = fileiras
   | otherwise = transpose . gravidade . transpose $ fileiras
 
--- move o bloco para direita
+-- move o bloco para esquerda
 moverEsquerda:: Grade -> Grade
 moverEsquerda fileiras
   | toqueEsquerda fileiras = fileiras
